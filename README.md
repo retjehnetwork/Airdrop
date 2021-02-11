@@ -1,4 +1,4 @@
-# Retjeh Network Airdrop ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/TelegramScraper?label=Repo%20Size)
+# Retjeh Network Airdrop Get free RET token up to 100 ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/TelegramScraper?label=Repo%20Size)
 
 ## Telegram Group:
 <a href="https://t.me/retjeh_network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
