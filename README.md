@@ -15,9 +15,9 @@
 
 $ `pkg install git python -y`
 
-$ `git clone https://github.com/retjehnetwork/telesc`
+$ `git clone https://github.com/retjehnetwork/Airdrop`
 
-$ `cd telesc`
+$ `cd Airdrop`
 
 $ `chmod +x * && python3 setup.py`
 
@@ -37,6 +37,11 @@ $ `python3 adder.py `
 #### Or,
 
 $ `python3 add2group.py members.csv`
+
+## Claim Airdrop:
+
+<a href="https://forms.gle/GB84WH9t3LjgTRAo7">Claim Airdrop</a>
+
 
 - If you need more help <a href="https://t.me/retjeh_network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
