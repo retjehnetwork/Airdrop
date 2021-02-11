@@ -1,5 +1,5 @@
 #!/bin/env python3
-# (c) @RetjehNetwork
+# Group https://t.me/retjeh_ntwork
 
 
 print ("\033[1;92m")
