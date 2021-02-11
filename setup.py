@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/bin/env python3
-# Modified by @RetjehNetwork
+# Group https://t.me/retjeh_ntwork
 
 
 import os, sys
