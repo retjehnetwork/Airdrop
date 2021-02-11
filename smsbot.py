@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Modified by @RetjehNetwork
+# Group https://t.me/retjeh_ntwork
 
 
 from telethon.sync import TelegramClient
@@ -27,7 +27,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 Version: 1.3
-         Modified by @RetjehNetwork
+         Group https://t.me/retjeh_network
             """)
 
     def send_sms():
