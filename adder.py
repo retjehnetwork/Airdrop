@@ -1,7 +1,5 @@
 #!/bin/env python3
-# (c) @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
-# Please give me credits if you use any codes from here.
+# (c) @RetjehNetwork
 
 
 print ("\033[1;92m")
@@ -9,7 +7,7 @@ print ("░█▀█░█▀▄░█▀▄░█▀▀░█▀▄")
 print ("░█▀█░█░█░█░█░█▀▀░█▀▄")
 print ("░▀░▀░▀▀░░▀▀░░▀▀▀░▀░▀")
 print ("")
-print ("      by \033[1;95m@AbirHasan2005")
+print ("      by \033[1;95m@RetjehNetwork")
 print ("\033[1;92m")
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
@@ -22,9 +20,9 @@ import traceback
 import time
 import random
 
-api_id = 1655760   #Enter Your 7 Digit Telegram API ID.
-api_hash = '887513e49c5e3004ea92c0104403c4c3'   #Enter Yor 32 Character API Hash
-phone = '+17099076670'   #Enter Your Mobilr Number With Country Code.
+api_id = 1655760
+api_hash = '887513e49c5e3004ea92c0104403c4c3'
+phone = '+17099076670'
 client = TelegramClient(phone, api_id, api_hash)
 async def main():
     # Now you can use all client methods listed below, like for example...
