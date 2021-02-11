@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Modified by @RetjehNetwork
+# Group https://t.me/retjeh_ntwork
 
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
