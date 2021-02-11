@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/bin/env python3
-# Group https://t.me/retjeh_ntwork
+# Group https://t.me/retjeh_network
 
 
 import os, sys
