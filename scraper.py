@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Modified by @RetjehNetwork
+# Group https://t.me/retjeh_ntwork
 
 
 from telethon.sync import TelegramClient
@@ -22,7 +22,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             Version: 1.3
-     Modified by @AbirHasan2005
+     Group https://t.me/retjeh_ntwork
         """)
 
 cpass = configparser.RawConfigParser()
