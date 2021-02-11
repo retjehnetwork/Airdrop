@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Group https://t.me/retjeh_ntwork
+# Group https://t.me/retjeh_network
 
 
 from telethon.sync import TelegramClient
@@ -22,7 +22,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             Version: 1.3
-     Group https://t.me/retjeh_ntwork
+     Group https://t.me/retjeh_network
         """)
 
 cpass = configparser.RawConfigParser()
