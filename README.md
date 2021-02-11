@@ -40,7 +40,7 @@ $ `python3 add2group.py members.csv`
 
 ## Claim Airdrop:
 
-<a href="https://forms.gle/GB84WH9t3LjgTRAo7">Claim Airdrop</a>
+<a href="https://forms.gle/GB84WH9t3LjgTRAo7">Claim Airdrop here</a>
 
 
 - If you need more help <a href="https://t.me/retjeh_network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
