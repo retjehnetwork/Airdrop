@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Group https://t.me/retjeh_ntwork
+# Group https://t.me/retjeh_network
 
 
 from telethon.sync import TelegramClient
