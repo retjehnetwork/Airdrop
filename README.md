@@ -38,5 +38,5 @@ $ `python3 adder.py `
 
 $ `python3 add2group.py members.csv`
 
-- If you need more help <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+- If you need more help <a href="https://t.me/retjeh_network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
