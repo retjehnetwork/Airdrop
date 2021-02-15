@@ -65,7 +65,7 @@ with open(input_file, encoding='UTF-8') as f:
  
 chats = []
 last_date = None
-chunk_size = 200
+chunk_size = 2000
 groups=[]
  
 result = client(GetDialogsRequest(
