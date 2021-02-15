@@ -50,7 +50,7 @@ os.system('clear')
 banner()
 chats = []
 last_date = None
-chunk_size = 200
+chunk_size = 2000
 groups=[]
  
 result = client(GetDialogsRequest(
